@@ -6,3 +6,6 @@ This is a successful test project, which has been built for release and public u
 
 
 ###Screenshots
+![Home CryptoTicker](https://drive.google.com/uc?export=view&id=0BxE_usch7WGFaVlSZnB3YlJFT00)
+![Home CryptoTicker](https://drive.google.com/uc?export=view&id=0BxE_usch7WGFTlE4SjJWUXZPUTQ)
+![Home CryptoTicker](https://drive.google.com/uc?export=view&id=0BxE_usch7WGFMUxWd2VGMU5TdmM)
